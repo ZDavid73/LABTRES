@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: #282846; 
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .App {
+    padding: 10px;
+  }
+}

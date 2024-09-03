@@ -1,0 +1,17 @@
+.new-expense-form-container {
+    margin: 20px 0;
+  }
+  
+  .new-expense-form-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .new-expense-form-container input,
+  .new-expense-form-container select {
+    margin-bottom: 10px;
+  }
+  
+  .new-expense-form-container button {
+    width: 100%;
+  }
+  

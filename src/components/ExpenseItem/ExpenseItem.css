@@ -1,0 +1,19 @@
+.expense-item-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #CCCCFF;
+    background-color: #2E2E3E; /* Fondo para cada item */
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .expense-item-container h3 {
+    color: #E0E0FF;
+  }
+  
+  .expense-item-container p {
+    margin: 5px 0;
+  }
+  

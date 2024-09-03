@@ -1,0 +1,11 @@
+.circular-progress-container {
+    margin: 20px auto;
+    width: 150px;
+  }
+  
+  @media (max-width: 768px) {
+    .circular-progress-container {
+      width: 100px;
+    }
+  }
+  
