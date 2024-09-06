@@ -29,7 +29,6 @@ const NewExpenseForm: React.FC<NewExpenseFormProps> = ({ onAddExpense }) => {
     
     onAddExpense(newExpense);
     
-    // Reset form
     setName('');
     setAmount(0);
     setCategory('');

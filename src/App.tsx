@@ -1,9 +1,6 @@
 import React, { useState } from 'react';
-import BudgetInput from './components/BudgetInput/BudgetInput';
-import ExpenseList from './components/ExpenseList/ExpenseList';
-import ExpenseFilter from './components/ExpenseFilter/ExpenseFilter';
-import CircularProgress from './components/CircularProgress/CircularProgress';
-import NewExpenseForm from './components/NewExpenseForm/NewExpenseForm';
+import { BudgetInput, ExpenseList, ExpenseFilter, CircularProgress, NewExpenseForm } from './components/import';
+
 import './App.css';
 
 interface Expense {
